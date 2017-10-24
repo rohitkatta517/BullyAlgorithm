@@ -1,6 +1,6 @@
 # BullyAlgorithm
 A leader election program using Bully algorithm written in Java.
-==============================================================================================
+
 How Code is Structured:
 
 Eleection class contains main GUI and main function
@@ -12,7 +12,7 @@ Each process starts seperately, when last process starts election call is made b
 UI has 3 buttons. Election button to manually start election.
 Stop button to stop the process.
 Restart button to put process again in ring.
-==============================================================================================
+
 How to Run the code:
 javac Election.java
 
